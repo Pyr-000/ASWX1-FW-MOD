@@ -1,4 +1,7 @@
-# ASWX1-FW-MOD  
+# ASWX1-FW-MOD
+**Configuration adapted for BMG Extruder and Mosquito Hotend with sliceengineering thermistor**  
+**Original Readme below, currently unmodified**
+
 **Artillery Sidewinder X1 Firmware Mod**  
 
 
